@@ -4,7 +4,7 @@ Where to find me online.
 - [Rands Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 - too many random Discords and other Slacks
 - Facebook
-- [LinkedIn[(https://www.linkedin.com/in/bscofield/), reluctantly
+- [LinkedIn](https://www.linkedin.com/in/bscofield/), reluctantly
 - [Mastodon](https://mastodon.social/@bscofield), as an escape hatch
 
 I'm @bscofield pretty much everywhere, and I try to keep the same dog-on-head avatar as well.
