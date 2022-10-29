@@ -2,6 +2,7 @@ Where to find me online.
 
 - [Twitter](https://twitter.com/bscofield), for now
 - [Rands Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+- [Calendly](https://calendly.com/bscofield/30min?month=2022-10), if you'd like to chat with me
 - too many random Discords and other Slacks
 - Facebook, mostly for family
 - [LinkedIn](https://www.linkedin.com/in/bscofield/), reluctantly
