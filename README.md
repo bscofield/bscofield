@@ -1,6 +1,5 @@
 Where to find me online. 
 
-- [Twitter](https://twitter.com/bscofield), for the ever-shortening now
 - [Mastodon](https://hachyderm.io/@bscofield), as an increasingly-used escape hatch
 - [Rands Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 - [Calendly](https://calendly.com/bscofield/30min?month=2022-10), if you'd like to grab some time to chat
