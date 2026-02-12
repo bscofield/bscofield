@@ -1,7 +1,7 @@
 Where to find me online. 
 
 - [Mastodon](https://hachyderm.io/@bscofield) and [Bluesky](https://staging.bsky.app/profile/benscofield.com), as increasingly-necessary escape hatches
-- [My calendar](https://tidycal.com/bscofield/30), if you'd like to grab some time to chat
+- [My calendar](https://tidycal.com/bscofield/30-minutes), if you'd like to grab some time to chat
 - [Rands Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 - too many random Discords and other Slacks
 - Facebook, mostly for family
